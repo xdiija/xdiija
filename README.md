@@ -1,7 +1,7 @@
-                                           ##Hello , I'm Djalma Leandro, full-stack dev!
+                                           ##Hello , My names's Djalma Leandro, i'm 32 Y/O and i'm a full-stack web developer!
 
-                               - 🔭 I’m currently working as Full-Stack Dev. on iColabora Brasil
-                                      - 🌱 I’m currently learning NodeJs, VueJs and React
+                               - 🔭 I’m currently working on Customax Tecnologia and Live! E-commerce
+                                      - 🌱 I’m currently learning Laravel, and VueJ.
 
 <div align="center">
   <a href="https://github.com/xdiija">
