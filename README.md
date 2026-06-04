@@ -1,7 +1,7 @@
-                            ##Hello , My names's Djalma Leandro, i'm 32 Y/O and i'm a full-stack web developer!
+                            ##Hello , My names's Djalma Leandro, i'm 32 Y/O and i'm a back-end developer!
 
-                               - 🔭 I’m currently working on Customax Tecnologia and Live! E-commerce
-                                      - 🌱 I’m currently learning Laravel, React.Js and VueJs.
+                               - 🔭 I’m currently working on Olostech Tecnologia.
+                                      - 🌱 I’m currently doing a degree in Software Engineering at Católica de Santa Catarina.
 
 <div align="center">
   <a href="https://github.com/xdiija">
